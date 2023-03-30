@@ -13,7 +13,7 @@ function getRandomCoordinate() {
 //Write a program that writes out the numbers from 0 to 5 using
 // a while loop and the text function
 function problemOne() {
-  // text('word', getRandomCoordinate(), getRandomCoordinate());
+  text('word', getRandomCoordinate(), getRandomCoordinate());
 
 }
 
